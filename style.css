@@ -69,5 +69,28 @@ h2{
     background-color: rgba(255, 238, 0, 0.253);
 }
 #emailTitulo{
-    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+#formEmail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+button{
+    padding: 5px 10px
+}
+
+#email{
+    width: 250px;
+    padding: 5px;
+}
+#mensagem{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
 }
